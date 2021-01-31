@@ -1,4 +1,4 @@
-# JHU-Assignment-Week 1
+# JHU-Week 1-Assignment
 
 ## Name: 
 Irina Nobaeva, Student ID 'INOBAEV1'
